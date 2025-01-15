@@ -11,7 +11,7 @@ enum TrafficLight {
 }
 
 fn main() {
-    /* //DATA TYPES
+    //DATA TYPES
     //Rust is a statically typed language, which means that it must know the types of all variables at compile time, however, the compiler can usually infer what type we want to use based on the value and how we use it.
     //Scalar Types
     //A scalar type represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters.
@@ -84,7 +84,7 @@ fn main() {
     println!("b: {}", b);
 
     //Character Type
-    //The character type represents a single Unicode character. Rust's char type is four bytes in size and represents a Unicode Scalar Value, which means it can represent a lot more than just ASCII. Rust's char type is specified with single quotes. */
+    //The character type represents a single Unicode character. Rust's char type is four bytes in size and represents a Unicode Scalar Value, which means it can represent a lot more than just ASCII. Rust's char type is specified with single quotes.
 
     let c = 'z';
     let z = 'ℤ';
